@@ -1,0 +1,25 @@
+.navbar-custom {
+    padding-left: 60px;
+    padding-right: 90px;
+    background-color: #ffcab0;
+    color: #132743;
+  }
+  
+  .navbar-brand-custom {
+    font-family: cursive;
+    font-weight: bold;
+    color: #132743 !important;
+  }
+  
+  .search-bar {
+    margin-right: 15px;
+  }
+  
+  .cart-icon {
+    width: 35px;
+    height: 35px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: #132743;
+  }
+  
